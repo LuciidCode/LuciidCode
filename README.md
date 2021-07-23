@@ -1,7 +1,7 @@
 - 👋 Hola, soy @LuciidCode
 - 🌱 Actualmente estoy aprendiendo Python & JS
 - 📫 Cómo contactarme:
-- Discord: LucidCode#0001
+- Discord: LucidCode#0006
 
 <!---
 LuciidCode/LuciidCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
